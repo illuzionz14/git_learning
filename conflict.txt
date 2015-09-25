@@ -1,4 +1,4 @@
 git is good at conflict resolution.
 
 please keep your line here:
-this file is for conflict resolution.  -  Lay
+this directory is for conflict resolution.  -  Lay
